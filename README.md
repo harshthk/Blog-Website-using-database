@@ -24,3 +24,14 @@ Post with particular title (Dynamic website)
 In navigation bar compose is add which directly take you to compose page
 ![image](https://user-images.githubusercontent.com/91027090/190870752-fc65e90a-04cd-4136-8ac4-1d7ee16cb935.png)
 
+Home page of blog website with two post
+![image](https://user-images.githubusercontent.com/91027090/194068663-57ce0079-42cb-432a-b019-fbe4c295ce0b.png)
+
+MongoDB compass home page with database name blogDB
+![image](https://user-images.githubusercontent.com/91027090/194067404-68cc201c-30a3-4b97-b2c3-aae261a81dd9.png)
+
+Data in database
+![image](https://user-images.githubusercontent.com/91027090/194067605-2bf6ee0c-e0ba-4292-ab83-6d5823f078bd.png)
+
+Data in Hyper terminal
+![Uploading image.png…]()
